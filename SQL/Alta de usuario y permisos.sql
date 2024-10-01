@@ -1,7 +1,7 @@
 USE [master];
 GO
 
------- Creo el login ------
+------- Creo el login ------
 CREATE LOGIN usuarioCursoFundamentos
 WITH PASSWORD = 'abc123';
 GO
